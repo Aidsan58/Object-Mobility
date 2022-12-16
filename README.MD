@@ -1,4 +1,4 @@
-Homework 6 by
+by
 Arun Khanijau 919496132
 Ahsab Alabedin 919282537
 Aidan Rosen 920037467
