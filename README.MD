@@ -1,7 +1,7 @@
 by
-Arun Khanijau 919496132
-Ahsab Alabedin 919282537
-Aidan Rosen 920037467
+Arun 
+Ahsab 
+Aidan 
 
 
 This program demonstrates object mobility. It works by sending Json objects from one server to another.
