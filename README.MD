@@ -1,7 +1,4 @@
-by
-Arun,
-Ahsab,
-Aidan.
+Made in collaboration with two other programmers.
 
 
 This program demonstrates object mobility. It works by sending Json objects from one server to another.
